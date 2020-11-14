@@ -117,7 +117,9 @@ namespace KwadratnoeUrovnenie
 
         static void Main(string[] args)
         {
-            string Tested = "x^2+4x-5=0";
+            Console.WriteLine("Введите полное квадратное уравнение где (x в квадрате записывается так: x^2) например: x^2+4x-5=0");
+            string Tested = Console.ReadLine();
+            //string Tested = "x^2+4x-5=0";
 
             CalculateKvadrat(Tested);
             
