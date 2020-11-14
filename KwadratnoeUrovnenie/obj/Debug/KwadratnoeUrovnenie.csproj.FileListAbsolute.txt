@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\KwadratnoeUrovnenie\KwadratnoeUrovnenie\bin\Debug\KwadratnoeUrovnenie.exe.config
+E:\Projects\Visual\c#\KwadratnoeUrovnenie\KwadratnoeUrovnenie\bin\Debug\KwadratnoeUrovnenie.exe
+E:\Projects\Visual\c#\KwadratnoeUrovnenie\KwadratnoeUrovnenie\bin\Debug\KwadratnoeUrovnenie.pdb
+E:\Projects\Visual\c#\KwadratnoeUrovnenie\KwadratnoeUrovnenie\obj\Debug\KwadratnoeUrovnenie.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\KwadratnoeUrovnenie\KwadratnoeUrovnenie\obj\Debug\KwadratnoeUrovnenie.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\KwadratnoeUrovnenie\KwadratnoeUrovnenie\obj\Debug\KwadratnoeUrovnenie.exe
+E:\Projects\Visual\c#\KwadratnoeUrovnenie\KwadratnoeUrovnenie\obj\Debug\KwadratnoeUrovnenie.pdb
