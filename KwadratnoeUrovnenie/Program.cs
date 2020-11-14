@@ -111,6 +111,10 @@ namespace KwadratnoeUrovnenie
 
                 Console.WriteLine("x1 = {0}", x1);
                 Console.WriteLine("x2 = {0}", x2);
+
+                
+                Console.WriteLine("Проверим через обратную теорему Виета: x1+x2=-b: {0}+{1}={2}, x1*x2=c: {0}*{1}={3}", x1,x2, x1 + x2, x1*x2);
+
             }
         }
 
